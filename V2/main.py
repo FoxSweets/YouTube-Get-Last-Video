@@ -3,7 +3,7 @@ import re
 import time
 
 # Вставьте ваш API-ключ
-api_key = 'AIzaSyDwc6UtfE7eFcFAkbcJ4Dx8rItfugH3E5s'
+api_key = 'None'
 youtube = build('youtube', 'v3', developerKey=api_key)
 
 
